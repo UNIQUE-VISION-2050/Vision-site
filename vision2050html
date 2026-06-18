@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>رؤية فريدة 2050</title>
+    <style>
+        body { background-color: #000; color: #d4af37; font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; }
+        .logo { width: 120px; height: 120px; border: 3px solid #d4af37; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 50px; margin-bottom: 20px; }
+        .btn { border: 2px solid #d4af37; padding: 15px 30px; margin: 10px; color: #d4af37; text-decoration: none; border-radius: 5px; font-weight: bold; }
+        .btn:hover { background-color: #d4af37; color: #000; }
+    </style>
+</head>
+<body>
+    <div class="logo">V</div>
+    <h1>رؤية فريدة 2050</h1>
+    <div style="display:flex;">
+        <a href="#" class="btn">تـحـلـيـل</a>
+        <a href="#" class="btn">تـخـطـيـط</a>
+        <a href="#" class="btn">تـحـصـيـن</a>
+    </div>
+</body>
+</html>
